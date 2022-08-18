@@ -1,0 +1,33 @@
+#buscador{
+    background-color: whitesmoke;
+    color: darkcyan;
+    border: solid darkcyan 2px;
+    border-radius: 25px;
+    padding: 8px 60px;
+    font-weight: bold;
+    font-size: 1em;
+    margin: 10px;
+}
+#mas{
+    background-color: turquoise;
+    width: 1.7em;
+    height: 1.7em;
+    border-radius: 50%;
+    color: white;
+    font-size: 2em;
+    border: none;
+    margin: 10px;
+}
+#cuenta{
+    background-color: royalblue;
+    color: white;
+    font-size: 1.2em;
+    border: solid 2px black;
+    padding: 8px 40px;
+    box-shadow: 4px 4px black;
+    margin: 10px;
+}
+/*el siguiente div lo use para ubicarlos un boton bajo otro*/
+div{
+    width: 250px;
+}
